@@ -1578,6 +1578,7 @@ a.btn {
 
 #image_3layer .imageblock {
   margin-left: 1rem;
+  width: 33.3%;
 }
 
 #image_3layer .imageblock:first-child {
