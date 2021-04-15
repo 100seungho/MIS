@@ -3310,7 +3310,7 @@ li > ul:first-child {
   }
 
   .entry-content {
-    padding: 0 24px;
+    padding: 0px;
   }
   .entry-content p {
     margin-bottom: 22px;
